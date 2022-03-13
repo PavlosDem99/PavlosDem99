@@ -1,6 +1,6 @@
 - > Hi, I’m @PavlosDem99
 - > I’m interested in coding scripts in Python for GIS softwares like QGIS and ArcGIS. Also I'm interest in coding application for Digital Photgrammetry!
-- > I’m currently learning python (Geopanda & Anaconda)
+
 
 
 <!---
