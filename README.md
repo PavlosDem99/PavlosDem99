@@ -1,4 +1,4 @@
-- > Hi, I’m @PavlosDem99
+- > Hi, I’m Paul
 - > I’m interested in coding scripts in Python for GIS softwares like QGIS and ArcGIS. Also I'm interest in coding application for Digital Photgrammetry!
 
 
